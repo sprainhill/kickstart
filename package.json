@@ -1,0 +1,27 @@
+{
+  "name": "kickstart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rorychristianmurray/kickstart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rorychristianmurray/kickstart/issues"
+  },
+  "homepage": "https://github.com/rorychristianmurray/kickstart#readme",
+  "dependencies": {
+    "fs-extra": "^8.1.0",
+    "ganache-cli": "^6.9.1",
+    "mocha": "^7.1.0",
+    "solc": "^0.6.3",
+    "web3": "^1.0.0-beta.35"
+  }
+}
